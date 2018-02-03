@@ -536,7 +536,7 @@ public enum Material {
     RECORD_10(2265, 1),
     RECORD_11(2266, 1),
     RECORD_12(2267, 1),
-	SHERST_HOOY(4998, 1, 102),
+    SHERST_HOOY(4998, 1, 102),
 	
     ;
 
