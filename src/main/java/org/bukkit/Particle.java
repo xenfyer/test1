@@ -52,8 +52,7 @@ public enum Particle {
     SWEEP_ATTACK,
     FALLING_DUST(MaterialData.class),
     TOTEM,
-    SPIT,
-    TESTING;
+    SPIT;
 
     private final Class<?> dataType;
 
